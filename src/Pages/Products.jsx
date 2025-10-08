@@ -18,7 +18,7 @@ const Products = () => {
         <h1 className="text-3xl font-semibold ">
           All Products{" "}
           <span className="text-sm text-gray-500">
-            ({searchProducts.length}) Products Found
+            ({products.length}) Products Found
           </span>{" "}
         </h1>
         {/* search box */}

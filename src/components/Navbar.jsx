@@ -38,7 +38,7 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-        <Link className="text-2xl font-bold">Home Decor</Link>
+        <Link className="text-2xl font-bold whitespace-nowrap">Home Decor</Link>
       </div>
       <div className="navbar-center"></div>
       <div className="navbar-end">
