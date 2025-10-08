@@ -11,6 +11,7 @@ const Products = () => {
     ? products.filter((product) => product.name.toLowerCase().includes(term))
     : products;
   // console.log(searchProducts);
+  
 
   return (
     <div>
